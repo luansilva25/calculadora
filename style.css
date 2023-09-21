@@ -10,5 +10,10 @@ body{
     flex-direction: column;
     padding: 20px;
     border: 1px solid;
+    
+}
+.container div{
+    display: flex;
+    flex-direction: column;
     gap: 20px;
 }
