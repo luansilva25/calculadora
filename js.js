@@ -23,5 +23,5 @@ else if(imc > 30 && imc <= 35){
 else{
     alert('obesidade morbita')
 }
-alert(`${imc.toFixed(2)}`)
+alert(` seu IMC é de: ${imc.toFixed(1)}`)
 }
